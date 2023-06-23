@@ -16,4 +16,4 @@ Build the app to generate your static website
 
 Sync the static website to your s3 bucket
 
-aws s3 sync build s3://your-s3-bucket-name
+```aws s3 sync build s3://your-s3-bucket-name```
